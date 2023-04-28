@@ -64,7 +64,8 @@
 4. [Примеры с JSON/XML](https://github.com/Vyugar/JSON-XML)
 5. [Примеры с MySQL/PHP](https://github.com/Vyugar/MySQL-PHP)
 6. [Примеры с HTML и JavaScript](https://github.com/Vyugar/HTML-JavaScript)
-6. [Примеры с HTML и CSS](https://github.com/Vyugar/HTML-CSS)
+7. [Примеры с HTML и CSS](https://github.com/Vyugar/HTML-CSS)
+8. [Примеры SQL на уровне простых запросов](https://docs.google.com/spreadsheets/d/1xUR-mJf11P_dxFKt3ch548YMgc-w6Xlk/edit?usp=sharing&ouid=109515689622354827402&rtpof=true&sd=true)
 
 **[Резюме на Head Hunter](https://hh.ru/resume/2419ff6fff0bd2e48c0039ed1f454f594e6131?from=share_ios)**
 
