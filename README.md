@@ -67,6 +67,6 @@
 
 **Контакты**:
 
-[Telegram](https://t.me/Vyugar2021)
+* [Telegram](https://t.me/Vyugar2021)
 
-Vyugar@yandex.ru
+* Vyugar@yandex.ru
