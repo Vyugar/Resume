@@ -66,6 +66,7 @@
 **[Резюме на Хабр Карьере](https://career.habr.com/vyugar1)**
 
 **Контакты**:
+
 [Telegram](https://t.me/Vyugar2021)
 
-[e'mail](Vyugar@yandex.ru)
+Vyugar@yandex.ru
