@@ -68,6 +68,7 @@
 8. [Примеры SQL на уровне простых запросов](https://docs.google.com/spreadsheets/d/1xUR-mJf11P_dxFKt3ch548YMgc-w6Xlk/edit?usp=sharing&ouid=109515689622354827402&rtpof=true&sd=true)
 9. [Примеры с гибкими методологиями](https://docs.google.com/spreadsheets/d/11uRfmNE_WZpRn370t_Dyf-Ugh-boInNW/edit?usp=sharing&ouid=109515689622354827402&rtpof=true&sd=true)
 10. [Пример со Scrum](https://docs.google.com/spreadsheets/d/1m30Ob2yEqXoqYpPgBcgUnDHxnkcacQNm/edit?usp=sharing&ouid=109515689622354827402&rtpof=true&sd=true)
+11. [Пример с Kanban](https://docs.google.com/spreadsheets/d/1vUmUEgkHWIvO2F_qys1NXWNpY_B9txvH/edit?usp=sharing&ouid=109515689622354827402&rtpof=true&sd=true)
 
 **[Резюме на Head Hunter](https://hh.ru/resume/2419ff6fff0bd2e48c0039ed1f454f594e6131?from=share_ios)**
 
