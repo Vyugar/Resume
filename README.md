@@ -60,6 +60,7 @@
 **Портфолио**:
 1. [Пример составленного мною отчета по результатам тестирования на итоговой аттестации с приложением чек-листов, баг-репортов и скринов с Jira и QASE](https://drive.google.com/file/d/15njTBHo9yLvR_bpsww75KLzR2kxezmZF/view?usp=sharing)
 2. [Пример одного из составленных мною отчетов по результатам тестирования с приложением чек-листов и скринов с Jira](https://drive.google.com/file/d/1z9CLsjzpAXccVX48IxcZk6BwrlDq6zuN/view?usp=sharing)
+3. [Пример программирования на C#](https://github.com/Vyugar/Finalproject)
 
 **[Резюме на Head Hunter](https://hh.ru/resume/2419ff6fff0bd2e48c0039ed1f454f594e6131?from=share_ios)**
 
