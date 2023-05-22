@@ -79,7 +79,7 @@
 
 **[Резюме на Хабр Карьере](https://career.habr.com/vyugar1)**
 
-**[Профиль на LinkedIn](https://www.linkedin.com/in/vyugar-kerimov-13b9b6277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5txJCqbWQb%2Bq%2BIOjrJuNxg%3D%3D)**
+**[Профиль на LinkedIn](https://www.linkedin.com/in/%D0%B2%D1%8C%D1%8E%D0%B3%D0%B0%D1%80-%D0%BA%D0%B5%D1%80%D0%B8%D0%BC%D0%BE%D0%B2-13b9b6277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdSpdwZWZT8OqHsF62fTh6Q%3D%3D)**
 
 **Контакты**:
 
